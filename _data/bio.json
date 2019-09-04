@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Carmen Lavender",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://carmenlavendercodes.github.io/images/carmen.jpg",
+    "email": "clavend@hawaii.edu",
+    "phone": "808-853-9448",
+    "website": "https://carmenlavendercodes.github.io",
+    "summary": "I am studying for a B.A.A. in Managment Information Systems in the Shidler school of business at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "CarmenLavenderCodes",
+        "url": "http://github.com/CarmenLavenderCodes"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "CarmenLavenderCodes",
+        "url": "http://linkedin.com/in/carmenlavendercodes"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "CarmenLavendercodes",
+        "url": "http://twitter.com/carmenlavendercodes"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Carmen",
+        "url": "http://instagram.com/Carmenlavendercodes"
       }
     ]
   },
